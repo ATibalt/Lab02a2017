@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lab02a2017</string>
+    <string name="titulo">Pedite la cena!!!</string>
+    <string name="reserva">Reservar Mesa</string>
+    <string name="delivery">Delivery</string>
+    <string name="selecHorario">Seleccione el horario</string>
+    <string name="notif">Notificar reserva 1 hora antes</string>
+    <string name="postre">Postre</string>
+    <string name="bebida">Bebida</string>
+    <string name="plato">Plato</string>
+    <string name="agregar">Agregar</string>
+    <string name="conf">Confirmar Pedido</string>
+    <string name="reset">Reiniciar</string>
+
+
+
+
+</resources>
+
